@@ -5,7 +5,7 @@ Este repositório contém **imagens de tokens de blockchain** utilizadas no sist
 As imagens aqui reunidas incluem:
 
 * ✅ O conjunto **defaults** de tokens para todas as redes suportadas.
-* 🌐 Tokens das redes **Wordchain** e **Gnosis**, que são mais raros e difíceis de encontrar em outros repositórios públicos.
+* 🌐 Tokens das redes **Wordchain** e **Gnosis**, **Soneium** e outros que são mais raros e difíceis de encontrar em outros repositórios públicos.
 
 ---
 
@@ -16,6 +16,8 @@ As imagens aqui reunidas incluem:
 ├── defaults/          # Logo padrão de cada rede
 ├── wordchain/         # Tokens da Wordchain
 ├── gnosis/            # Tokens da Gnosis
+├── ronin/             # Tokens da Ronin
+├── .../               # Outros
 └── README.md          # Este arquivo
 ```
 
